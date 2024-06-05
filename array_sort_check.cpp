@@ -1,3 +1,4 @@
+//https://codeforces.com/contest/1975/problem/A
 #include<iostream>
 using namespace std; 
 const int N = 1e5+1 ;
